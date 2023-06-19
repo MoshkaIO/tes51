@@ -1,0 +1,2 @@
+ this.setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
+android:textSize="15sp"
